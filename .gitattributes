@@ -1,0 +1,2 @@
+# Captures are stored as 90 MB parts (GitHub rejects files above 100 MB).
+*.part-* -text -diff
